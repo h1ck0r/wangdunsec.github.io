@@ -12,7 +12,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 </p>
 
-网盾安全学院靶场官网：[https://wangdunsec.github.io/vulfocus/](https://wangdunsec.github.io/vulfocus/)
+网盾安全学院靶场官网：[https://ctf.wangdun.cn](https://ctf.wangdun.cn)
 
 
 ## 背景
